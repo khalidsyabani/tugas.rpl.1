@@ -1,0 +1,13 @@
+{
+  "name": "stockify-pro",
+  "version": "2.0.0",
+  "description": "Stockify Pro - aesthetic inventory management",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
